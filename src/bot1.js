@@ -5,9 +5,9 @@ console.info("\n\
 BotName: LINE Alphat JS\n\
 Version: TJ VERSION\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
-───💥 Type : LINE ꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂ JS\n\
-───💥 Version: VERSION KW SERIES\n\
-───💥 Thanks to @Alfathdirk @TCR_TEAM\n\
+───💥 Type : LINE ꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂ JS\n\ 💥───
+───💥 Version: VERSION KW SERIES\n\ 💥───
+───💥 Thanks to @Alfathdirk @TCR_TEAM\n\ 💥───
 =========================================\n\
 \nNOTE : This bot is made by @Alfathdirk @TCR_TEAM !");
 
