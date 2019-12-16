@@ -50,7 +50,7 @@ Cara Menjalankan Bot Kembali :
 Credit By@ pratan-naimjoi Sutjiadi.
 ------
 - `Follow My Instagram : @pratan-naimjoi.tjia`
-- `## Author Abb
+- `Author Abb
    /[@pratan-naimjoi](https://www.instagram.com/pratannaimjoi/in/pratan-naimjoi)
 
 (pake titik)꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂`
