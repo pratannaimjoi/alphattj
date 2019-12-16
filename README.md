@@ -1,5 +1,5 @@
-# AlphatTJ
-Bot AlphatTJ@9.9.9 (Pakai Token Chrome Via QR Login)
+# alphattj
+Bot alphattj@9.9.9 (Pakai Token Chrome Via QR Login)
 ------
 -
 
@@ -10,7 +10,7 @@ NEW
 - `Add Staff`
 - `Delete Staff`
 
-Cara Install Bot AlphatTJ Di Termux :
+Cara Install Bot alphattj Di Termux :
 ------
 - `pkg install nodejs -y`
 - `pkg install git -y`
@@ -20,7 +20,7 @@ Cara Install Bot AlphatTJ Di Termux :
 - `npm install`
 - `npm start`
 
-Cara Install Bot AlphatTJ Di C9:
+Cara Install Bot alphattj Di C9:
 ------
 - =================  [PROSES UPDATE]  =================
 - ==============================================
