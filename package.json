@@ -15,7 +15,7 @@
     "type": "git",
     "url": "https://github.com/tanpattaya/alphattj"
   },
-  "author": "Nadya <tanpattaya2499@gmail.com>",
+  "author": "tanpattaya <tanpattaya@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
     "qrcode-terminal": "^0.11.0",
