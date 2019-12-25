@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tanpattaya/alphattj"
+    "url": "https://github.com/Nadyatjia/Alphat"
   },
-  "author": "tanpattaya <tanpattaya@users.noreply.github.com>",
+  "author": "Nadya <Nadya.goodgirl@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "qrcode-terminal": "^0.11.0",
@@ -33,9 +33,9 @@
     "moment": "^2.18.1"
   },
   "bugs": {
-    "url": "https://github.com/tanpattaya/alphattj/issues"
+    "url": "https://github.com/Nadyatjia/Alphat/issues"
   },
-  "homepage": "https://github.com/tanpattaya/alphattj#README",
+  "homepage": "https://github.com/Nadyatjia/Alphat#README",
   "keywords": [
     "line"
   ]
