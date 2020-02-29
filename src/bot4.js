@@ -3,8 +3,8 @@ const LINE = require('./main.js');
 console.info("\n\
 =========================================\n\
 ★═══════════★꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂★══════════★\n\
-★─  https://line.me/ti/p/~tanbandan1983.goblog ─★\n\
-★─ https://line.me/ti/p/~ptatan1983.titipan ─★\n");
+★─  https://line.me/ti/p/~tanbandan1983 ─★\n\
+★─ https://line.me/ti/p/~ptatan1983 ─★\n");
 ★═══════════★TANBOTMEVERDIE✯͜͡❂➣★══════════★\n\
 BotName: LINE Alphat JS\n\
 Version: TJ VERSION\n\
