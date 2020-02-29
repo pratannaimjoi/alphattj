@@ -2,11 +2,11 @@ const LineConnect = require('./connect');
 const LINE = require('./main.js');
 console.info("\n\
 =========================================\n\
-★═══════════★★══════════★\n\
+★═══════════★꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂★══════════★\n\
 ★─  https://line.me/ti/p/~tanbandan1983.goblog ─★\n\
 ★─ https://line.me/ti/p/~ptatan1983.titipan ─★\n");
 console.info("\n\
-═══════════★TANBOTMEVERDIE✯͜͡❂➣★═══════════\n\
+═══════════★TANBOTMEVERDIE✯͜͡❂➣★══════════\n\
 BotName: LINE Alphat JS\n\
 Version: TJ VERSION\n\
 ───💥 Type : LINE ptatan1983 JS💥───\n\
