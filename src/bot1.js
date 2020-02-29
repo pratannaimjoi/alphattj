@@ -7,7 +7,7 @@ Version: TJ VERSION\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
 ───💥 Type : LINE ꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂JS💥───\n\
 ───💥 Version: VERSION KW SERIES💥───\n\
-───💥 Thanks to @Alfathdirk @TCR_TEAM💥───\n\
+───💥 Thanks to @pratannaimjoi @tan_TEAM💥───\n\
 =========================================\n\
 \nNOTE : This bot is made by @pratannaimjoi @thailand_TEAM !");
 
