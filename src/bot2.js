@@ -6,9 +6,9 @@ BotName: LINE Alphat JS\n\
 Version: TJ VERSION\n\
 ───💥 Type : LINE ꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂JS💥───\n\
 ───💥 Version: VERSION KW SERIES💥───\n\
-───💥 Thanks to @Alfathdirk @TCR_TEAM💥───\n\
+───💥 Thanks to @pratannaimjoi @thailand_TEAM💥───\n\
 =========================================\n\
-\nNOTE : This bot is made by @Alfathdirk @TCR_TEAM !");
+\nNOTE : This bot is made by @pratannaimjoi @thailand_TEAM !");
 
 /*
 | This constant is for auth/login
