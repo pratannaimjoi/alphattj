@@ -25,7 +25,7 @@ Cara Install Bot alphattj Di C9:
 - =================  [PROSES UPDATE]  =================
 - ==============================================
 
-- `sudo apt-get update`
+-`sudo apt-get update`
 -`sudo apt-get install build-essential checkinstall libssl-dev`
 - `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.1/install.sh | bash`
 - `nvm install v8.9.1`
@@ -57,7 +57,7 @@ Credit By@ pratan-naimjoi Sutjiadi.
 
 Thx To :
 ------
-- `Alfatdirk`
+- `pratannaimjoi`
 
 
 
