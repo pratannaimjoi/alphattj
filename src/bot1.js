@@ -9,7 +9,7 @@ Version: TJ VERSION\n\
 ───💥 Version: VERSION KW SERIES💥───\n\
 ───💥 Thanks to @pratannaimjoi @tan_TEAM💥───\n\
 =========================================\n\
-\nNOTE : This bot is made by @pratannaimjoi @thailand_TEAM !");
+\nNOTE : This bot is made by @pratannaimjoi @tan_TEAM !");
 
 /*
 | This constant is for auth/login
