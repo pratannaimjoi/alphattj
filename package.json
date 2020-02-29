@@ -4,7 +4,7 @@
   "description": "LINE",
   "main": "./src/main.js",
   "scripts": {
-    "start": "npm run nadya1 && npm run nadya2 && npm run nadya3 && npm run nadya4 && npm run nadya5",
+    "start": "npm run ptatan19831 && npm run ptatan19832 && npm run ptatan19833 && npm run ptatan198334 && npm run ptatan19835",
     "nadya1": "node ./src/bot1.js",
     "nadya2": "node ./src/bot2.js",
     "nadya3": "node ./src/bot3.js",
@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nadyatjia/Alphat"
+    "url": "https://github.com/pratannaimjoi/Alphat"
   },
-  "author": "Nadya <Nadya.goodgirl@gmail.com>",
+  "author": "Nadya <pratannaimjoi.goodgirl@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "qrcode-terminal": "^0.11.0",
@@ -33,9 +33,9 @@
     "moment": "^2.18.1"
   },
   "bugs": {
-    "url": "https://github.com/Nadyatjia/Alphat/issues"
+    "url": "https://github.com/pratannaimjoi/Alphat/issues"
   },
-  "homepage": "https://github.com/Nadyatjia/Alphat#README",
+  "homepage": "https://github.com/pratannaimjoi/Alphat#README",
   "keywords": [
     "line"
   ]
