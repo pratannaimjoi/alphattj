@@ -5,7 +5,6 @@ console.info("\n\
 ★═══════════★꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂★══════════★\n\
 ★─  https://line.me/ti/p/~tanbandan1983.goblog ─★\n\
 ★─ https://line.me/ti/p/~ptatan1983.titipan ─★\n");
-console.info("\n\
 ★═══════════★TANBOTMEVERDIE✯͜͡❂➣★══════════★\n\
 BotName: LINE Alphat JS\n\
 Version: TJ VERSION\n\
