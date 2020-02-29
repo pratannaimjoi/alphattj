@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nadyatjia/Alphat"
+    "url": "https://github.com/pratannaimjoi/Alphat"
   },
-  "author": "Nadya <Nadya.goodgirl@gmail.com>",
+  "author": "Nadya <pratannaimjoi.goodgirl@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "qrcode-terminal": "^0.11.0",
@@ -33,9 +33,9 @@
     "moment": "^2.18.1"
   },
   "bugs": {
-    "url": "https://github.com/Nadyatjia/Alphat/issues"
+    "url": "https://github.com/pratannaimjoi/Alphat/issues"
   },
-  "homepage": "https://github.com/Nadyatjia/Alphat#README",
+  "homepage": "https://github.com/pratannaimjoi/Alphat#README",
   "keywords": [
     "line"
   ]
