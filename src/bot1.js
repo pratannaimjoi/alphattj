@@ -2,14 +2,18 @@ const LineConnect = require('./connect');
 const LINE = require('./main.js');
 console.info("\n\
 =========================================\n\
+★═══════════★꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂★══════════★\n\
+★─  https://line.me/ti/p/~tanbandan1983 ─★\n\
+★─ https://line.me/ti/p/~ptatan1983 ─★\n");
+★═══════════★TANBOTMEVERDIE✯͜͡❂➣★══════════★\n\
 BotName: LINE Alphat JS\n\
 Version: TJ VERSION\n\
 ★═─═─═─═─═─★★─═─═─═─═─═★\n\
-───💥 Type : LINE ꧁💓 @:꓄ꍏꈤᖘꍏ꓄꓄ꍏꌩ💓꧂JS💥───\n\
+───💥 Type : LINE ptatan1983 JS💥───\n\
 ───💥 Version: VERSION KW SERIES💥───\n\
-───💥 Thanks to @pratannaimjoi @tan_TEAM💥───\n\
+───💥 Thanks to @pratannaimjoi @TANBOTMEVERDIE✯͜͡❂➣TEAM💥───\n\
 =========================================\n\
-\nNOTE : This bot is made by @pratannaimjoi @tan_TEAM !");
+\nNOTE : This bot is made by @pratannaimjoi @TANBOTMEVERDIE✯͜͡❂➣TEAM !");
 
 /*
 | This constant is for auth/login
